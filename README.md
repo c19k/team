@@ -1,7 +1,7 @@
 # team
 Team CODD-K
 
- * Dr. Jijo P. U.
+ * Dr. Jijo P. Ulahannan
  * Nishad Thalhath
  * Jeevan U.
  * Nikhil Narayanan
