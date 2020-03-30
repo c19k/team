@@ -11,3 +11,5 @@ Team CODD-K
  * Sooraj P Suresh
  * Sreekanth C
  * Dr. A.V. Pradeep
+ * Musfir
+ * Jaleel K.
