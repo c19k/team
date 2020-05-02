@@ -1,7 +1,7 @@
 # Team CODD-K
 
  * Abdul Jaleel K - Zoologist
- * Akhil Balakrishnan - Full Stack Developer | React JS, React Native, Node JS
+ * Akhil Balakrishnan - Full Stack Developer, React JS, React Native, Node JS
  * Harish Karumuthil - Software Developer
  * Jeevan U - Geophysicist, GIS Expert, Life Skill Coach 
  * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
