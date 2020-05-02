@@ -5,6 +5,7 @@
  * Harish Karumuthil - Software Developer
  * Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach 
  * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
+   [LinkedIn](https://www.linkedin.com/in/jijopu)
  * Manoj Karingamadathil  - Digital Ecologist
  * Mohammed Musfir N N  - Data Story Teller, Data Scientist
  * Neetha Nanoth, PhD - Geneticist, Genetic Epidemiologist
