@@ -7,7 +7,7 @@
  * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
  * Manoj Karingamadathil  - Digital Ecologist
  * Mohammed Musfir N N  - Data Story Teller, Data Scientist
- * Neetha Nanoth, PhD - Genetic Epidemiologist
+ * Neetha Nanoth, PhD - Geneticist, Genetic Epidemiologist
  * Nikhil Narayanan  - Digital Marketing Director
  * Nishad Thalhath - Metadata Researcher
  * Pradeep A V, PhD - Physicist
@@ -21,6 +21,7 @@
  * Sooraj P Suresh, PhD - Social Scientist, Researcher
  * Sreehari V - SAP Consultant
  * Sreekanth C - Cognitive Scientist, Researcher
+ * Sujith Kumar - Science & Technology Communicator
  * Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher
  * Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast
 
