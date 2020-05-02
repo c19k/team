@@ -1,17 +1,28 @@
 # Team CODD-K
 
- * Dr. Jijo P. Ulahannan
- * Nishad Thalhath
- * Jeevan U.
- * Nikhil Narayanan
- * Sreehari
- * Saneesh Chengamand
- * Prem Prabhakar
- * Sooraj P Suresh
- * Sreekanth C
- * Dr. A.V. Pradeep
- * Musfir
- * Jaleel K.
+ * Abdul Jaleel K - Zoologist
+ * Akhil Balakrishnan - Full Stack Developer | React JS, React Native, Node JS
+ * Harish Karumuthil - Software Developer
+ * Jeevan U - Geophysicist, GIS Expert, Life Skill Coach 
+ * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
+ * Manoj Karingamadathil  - Digital Ecologist
+ * Mohammed Musfir N N  - Data Story Teller, Data Scientist
+ * Neetha Nanoth, PhD - Genetic Epidemiologist
+ * Nikhil Narayanan  - Digital Marketing Director
+ * Nishad Thalhath - Metadata Researcher
+ * Pradeep A V, PhD - Physicist
+ * Prem Prabhakar, PhD  - Material Scientist
+ * Premsankar Chakkingal - Data Science Researcher
+ * Rajeevan Kalliassery, PhD - Philosophy Researcher
+ * Saneesh Chengamanad - Entrepreneur, Social Volunteer
+ * Shabeesh Balan, PhD - Geneticist and Molecular Biologist
+ * Sharadh M  - Data Storyteller
+ * Sooraj P Suresh, PhD - Social Scientist, Researcher
+ * Sreehari V - SAP Consultant
+ * Sreekanth C - Cognitive Scientist, Researcher
+ * Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher
+ * Unnikrishnan Suresh Kumar  - Astrophysicist, Data Geek
+
 
 # Frequently Asked Questions
 
