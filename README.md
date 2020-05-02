@@ -21,7 +21,7 @@
  * Sindhu Joseph, PhD -Social Science and Public Health Researcher
  * Sooraj P Suresh, PhD - Social Scientist, Researcher
  * Sreehari V - SAP Consultant
- * Sreekanth C - Cognitive Scientist, Researcher
+ * Sreekanth C - Cognitive Scientist, Researcher [LinkedIn](https://www.linkedin.com/in/sreekanth-c-5b0488142)
  * Sujith Kumar - Science & Technology Communicator
  * Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher
  * Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast
