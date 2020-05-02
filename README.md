@@ -1,9 +1,9 @@
 # Team CODD-K
 
  * Abdul Jaleel K - Zoologist
- * Akhil Balakrishnan - Full Stack Developer, React JS, React Native, Node JS
+ * Akhil Balakrishnan - Software Developer
  * Harish Karumuthil - Software Developer
- * Jeevan U - Geophysicist, GIS Expert, Life Skill Coach 
+ * Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach 
  * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
  * Manoj Karingamadathil  - Digital Ecologist
  * Mohammed Musfir N N  - Data Story Teller, Data Scientist
@@ -22,7 +22,7 @@
  * Sreehari V - SAP Consultant
  * Sreekanth C - Cognitive Scientist, Researcher
  * Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher
- * Unnikrishnan Suresh Kumar  - Astrophysicist, Data Geek
+ * Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast
 
 
 # Frequently Asked Questions
