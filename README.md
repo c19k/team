@@ -17,6 +17,7 @@
  * Saneesh Chengamanad - Entrepreneur, Social Volunteer
  * Shabeesh Balan, PhD - Geneticist and Molecular Biologist
  * Sharadh M  - Data Storyteller
+ * Sindhu Joseph, PhD -Social Science and Public Health Researcher
  * Sooraj P Suresh, PhD - Social Scientist, Researcher
  * Sreehari V - SAP Consultant
  * Sreekanth C - Cognitive Scientist, Researcher
