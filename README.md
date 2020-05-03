@@ -1,30 +1,29 @@
 # Team CODD-K
 
  * Abdul Jaleel K - Zoologist
- * Akhil Balakrishnan - Software Developer
+ * [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
  * Harish Karumuthil - Software Developer
- * Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach 
- * Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow
-   [LinkedIn](https://www.linkedin.com/in/jijopu)
- * Manoj Karingamadathil  - Digital Ecologist
- * Mohammed Musfir N N  - Data Story Teller, Data Scientist
- * Neetha Nanoth, PhD - Geneticist, Genetic Epidemiologist
- * Nikhil Narayanan  - Digital Marketing Director
- * Nishad Thalhath - Metadata Researcher
- * Pradeep A V, PhD - Physicist
- * Prem Prabhakar, PhD  - Material Scientist
- * Premsankar Chakkingal - Data Science Researcher
+ * [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
+ * [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
+ * [Manoj Karingamadathil  - Digital Ecologist](https://twitter.com/manojkmohan?s=08)
+ * [Mohammed Musfir N N  - Data Story Teller, Data Scientist](https://www.linkedin.com/in/musfir-mohammed-684a013b)
+ * [Neetha Nanoth, PhD - Geneticist, Genetic Epidemiologist](https://www.linkedin.com/in/neethananoth)
+ * [Nikhil Narayanan  - Digital Marketing Director](http://www.twitter.com/nikhilnarayanan)
+ * [Nishad Thalhath - Metadata Researcher](https://github.com/nishad)
+ * [Pradeep A V, PhD - Physicist](https://www.linkedin.com/in/pradeep-a-v-511821154)
+ * [Prem Prabhakar, PhD  - Material Scientist](https://www.linkedin.com/in/premprabhakaran)
+ * [Premsankar Chakkingal - Data Science Researcher](https://www.linkedin.com/in/premsankarc)
  * Rajeevan Kalliassery, PhD - Philosophy Researcher
- * Saneesh Chengamanad - Entrepreneur, Social Volunteer
- * Shabeesh Balan, PhD - Geneticist and Molecular Biologist
- * Sharadh M  - Data Storyteller
- * Sindhu Joseph, PhD -Social Science and Public Health Researcher
- * Sooraj P Suresh, PhD - Social Scientist, Researcher
- * Sreehari V - SAP Consultant
- * Sreekanth C - Cognitive Scientist, Researcher [LinkedIn](https://www.linkedin.com/in/sreekanth-c-5b0488142)
+ * [Saneesh Chengamanad - Entrepreneur, Social Volunteer](https://www.linkedin.com/in/saneesh-chengamanad-142495137)
+ * [Shabeesh Balan, PhD - Geneticist and Molecular Biologist](https://www.linkedin.com/in/shabeesh-balan-03251923)
+ * [Sharadh M  - Data Storyteller]( https://twitter.com/dumb_doh?s=08)
+ * [Sindhu Joseph, PhD -Social Science and Public Health Researcher](https://www.linkedin.com/in/sjsindhu/)
+ * [Sooraj P Suresh, PhD - Social Scientist, Researcher](https://www.linkedin.com/in/sooraj-p-suresh-6a796921)
+ * [Sreehari V - SAP Consultant](https://www.linkedin.com/in/sreehari-pillai-b17336b0/)
+ * [Sreekanth C - Cognitive Scientist, Researcher](https://www.linkedin.com/in/sreekanth-c-5b0488142)
  * Sujith Kumar - Science & Technology Communicator
- * Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher
- * Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast
+ * [Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher](https://www.linkedin.com/in/sunil-thomas-thonikuzhiyil-88597415a)
+ * [Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast](https://www.linkedin.com/in/unnikrishnan-sureshkumar-4b519015/)
 
 
 # Frequently Asked Questions
