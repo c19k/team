@@ -3,11 +3,13 @@
  * Abdul Jaleel K - Zoologist
  * [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
  * Harish Karumuthil - Software Developer
+ * Hari Kurup K K, PhD - Health Economist
  * [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
  * [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
+ * Jiju Kuruan - Virus Research Analyst
  * [Manoj Karingamadathil  - Digital Ecologist](https://twitter.com/manojkmohan?s=08)
  * [Mohammed Musfir N N  - Data Story Teller, Data Scientist](https://www.linkedin.com/in/musfir-mohammed-684a013b)
- * [Neetha Nanoth, PhD - Geneticist, Genetic Epidemiologist](https://www.linkedin.com/in/neethananoth)
+ * [Neetha Nanoth Vellichirammal, PhD - Molecular Biologist, Bioinformatician](https://www.linkedin.com/in/neethananoth)
  * [Nikhil Narayanan  - Digital Marketing Director](http://www.twitter.com/nikhilnarayanan)
  * [Nishad Thalhath - Metadata Researcher](https://github.com/nishad)
  * [Pradeep A V, PhD - Physicist](https://www.linkedin.com/in/pradeep-a-v-511821154)
