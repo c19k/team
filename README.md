@@ -6,7 +6,7 @@
  * Hari Kurup K K, PhD - Health Economist
  * [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
  * [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
- * Jiju Kuruan - Virus Research Analyst
+ * [Jiju Kuruan - Virus Research Analyst](https://www.linkedin.com/in/jiju-kurian-590ab211)
  * [Manoj Karingamadathil  - Digital Ecologist](https://twitter.com/manojkmohan?s=08)
  * [Mohammed Musfir N N  - Data Story Teller, Data Scientist](https://www.linkedin.com/in/musfir-mohammed-684a013b)
  * [Neetha Nanoth Vellichirammal, PhD - Molecular Biologist, Bioinformatician](https://www.linkedin.com/in/neethananoth)
