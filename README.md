@@ -4,7 +4,7 @@
  * [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
  * Harish Karumuthil - Software Developer
  * Hari Kurup K K, PhD - Health Economist
- * [Hritwik N E - Writer and Coder](https://twitter.com/twik_dsc)
+ * [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne)
  * [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
  * [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
  * [Jiju Kuruan - Anti Malware Research Analyst](https://www.linkedin.com/in/jiju-kurian-590ab211)
