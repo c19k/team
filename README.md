@@ -8,7 +8,7 @@
  * [Jasimudeen S, Executive Editor, Health Infonet Portal](https://healthinfonet.in/)
  * [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
  * [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
- * [Jijo Kurian - Anti Malware Research Analyst](https://www.linkedin.com/in/jiju-kurian-590ab211)
+ * [Jiju Kurian - Anti Malware Research Analyst](https://www.linkedin.com/in/jiju-kurian-590ab211)
  * [Jomon Thomas Lobo, Software Engineer](http://jomonlobo.online)
  * [Karthik Hariharan, UI & Backend Software Developer/Lead](https://www.facebook.com/karthik08)
  * [Lijin Samuel , Sr. Accountant at Team Furniture Industry](https://www.linkedin.com/in/lijin-samuel-9016bb119)
