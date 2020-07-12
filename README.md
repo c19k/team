@@ -30,7 +30,7 @@
  * [Shabeesh Balan, PhD - Geneticist and Molecular Biologist](https://www.linkedin.com/in/shabeesh-balan-03251923)
  * [Sharadh M  - Data Storyteller]( https://twitter.com/dumb_doh?s=08)
  * [Shibin S B - Library & Information Professional](https://iitpkd.ac.in/people/shibinsb)
- * Shiby Joseph - Student, Social Volunteer
+ * [Shiby Joseph - Student, Social Volunteer](https://www.linkedin.com/in/shiby-joseph-961803183)
  * [Sindhu Joseph, PhD -Social Science and Public Health Researcher](https://www.linkedin.com/in/sjsindhu/)
  * Sonaj Kailas - Library & Information Science Researcher
  * [Sooraj P Suresh, PhD - Social Scientist, Researcher](https://www.linkedin.com/in/sooraj-p-suresh-6a796921)
