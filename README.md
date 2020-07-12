@@ -1,7 +1,7 @@
 # Team CODD-K
 
  * [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
- * Anesh Das, Management Professional
+ * Anesh Das - Management Professional
  * [Anupama R Pai, PhD - Neuroscientist](https://www.linkedin.com/in/anupama-r-pai-026a57a5/)
  * [Baiju Joy - Librarian](https://in.linkedin.com/in/baiju-joy-a498b365)
  * [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne-b95470189)
