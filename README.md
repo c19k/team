@@ -3,6 +3,7 @@
  * [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
  * Anesh Das - Management Professional
  * [Anupama R Pai, PhD - Neuroscientist](https://www.linkedin.com/in/anupama-r-pai-026a57a5/)
+ * [Arul Treesa Mathew - Cybersecurity Enthusiast](https://in.linkedin.com/in/arul-treesa-mathew-14631190)
  * [Baiju Joy - Library & Information Professional](https://in.linkedin.com/in/baiju-joy-a498b365)
  * [Droupathy Devi C G, Library & Information Professional](www.stjosephlibraryblog.wordpress.com)
  * [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne-b95470189)
@@ -24,6 +25,7 @@
  * [Premsankar Chakkingal - Data Science Researcher](https://www.linkedin.com/in/premsankarc)
  * Princy D Nellanat - Library & Information Professional
  * Rajeevan Kalliassery, PhD - Philosophy Researcher
+ * [Rohan Peter Mathew - Biotechnology Student](https://www.linkedin.com/in/rohan-peter-mathew-5738a2193)
  * [Saneesh Chengamanad - Entrepreneur, Social Volunteer](https://www.linkedin.com/in/saneesh-chengamanad-142495137)
  * [Shabeesh Balan, PhD - Geneticist and Molecular Biologist](https://www.linkedin.com/in/shabeesh-balan-03251923)
  * [Sharadh M  - Data Storyteller]( https://twitter.com/dumb_doh?s=08)
