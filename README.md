@@ -29,6 +29,7 @@
  * [Sharadh M  - Data Storyteller]( https://twitter.com/dumb_doh?s=08)
  * [Shibin S B - Library & Information Professional](https://iitpkd.ac.in/people/shibinsb)
  * [Sindhu Joseph, PhD -Social Science and Public Health Researcher](https://www.linkedin.com/in/sjsindhu/)
+ * Sonaj Kailas - Library & Information Science Researcher
  * [Sooraj P Suresh, PhD - Social Scientist, Researcher](https://www.linkedin.com/in/sooraj-p-suresh-6a796921)
  * [Sreehari V - SAP Consultant](https://www.linkedin.com/in/sreehari-pillai-b17336b0/)
  * [Sreekanth C - Cognitive Scientist, Researcher](https://www.linkedin.com/in/sreekanth-c-5b0488142)
