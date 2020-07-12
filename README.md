@@ -35,7 +35,7 @@
  * Sujith Kumar - Science & Technology Communicator
  * [Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher](https://www.linkedin.com/in/sunil-thomas-thonikuzhiyil-88597415a)
  * [Unnikrishnan Sureshkumar  - Astrophysicist, Data Enthusiast](https://www.linkedin.com/in/unnikrishnan-sureshkumar-4b519015/)
- * [Waltaire Joseph - Finance Professional](http://linkedin.com/in/waltairejoseph)
+ * [Waltaire Joseph, B.Com, FCCA,CPA,UAECA](http://linkedin.com/in/waltairejoseph)
 
 
 # Frequently Asked Questions
