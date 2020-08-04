@@ -1,8 +1,10 @@
-# Contact Us
+# Team CODD-K
+
+## Contact Us
 
 coddkorg [AT] gmail.com 
 
-# Team CODD-K
+## The Team
 
 - [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
 - Anandhu Vijay - Library and information science professional
