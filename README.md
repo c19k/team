@@ -8,11 +8,13 @@ coddkorg [AT] gmail.com
 
 - [Akhil Balakrishnan - Software Developer](https://www.linkedin.com/in/akhil-balakrishnan-10b82359)
 - Anandhu Vijay - Library and information science professional
+- Anat Suman Jose - Library and Information science professional
 - Anesh Das - Management Professional
 - [Anupama R Pai, PhD - Neuroscientist](https://www.linkedin.com/in/anupama-r-pai-026a57a5/)
 - [Arul Treesa Mathew - Cybersecurity Enthusiast](https://in.linkedin.com/in/arul-treesa-mathew-14631190)
 - [Baiju Joy - Library & Information Professional](https://in.linkedin.com/in/baiju-joy-a498b365)
 - [Droupathy Devi C G, Library & Information Professional](www.stjosephlibraryblog.wordpress.com)
+- Gilu G.Ettaniyil - Library and Information science professional
 - [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne-b95470189)
 - [Jasimudeen S - Executive Editor, Health Infonet Portal](https://healthinfonet.in/)
 - [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
@@ -27,6 +29,7 @@ coddkorg [AT] gmail.com
 - [Mohammed Musfir N N - Data Story Teller, Data Scientist](https://www.linkedin.com/in/musfir-mohammed-684a013b)
 - [Neetha Nanoth Vellichirammal, PhD - Molecular Biologist, Bioinformatician](https://www.linkedin.com/in/neethananoth)
 - [Nikhil Narayanan - Digital Marketing Director](http://www.twitter.com/nikhilnarayanan)
+- Nishad A - Library & Infomatics Science Researcher 
 - [Nishad Thalhath - Metadata Researcher](https://github.com/nishad)
 - [Pradeep A V, PhD - Physicist](https://www.linkedin.com/in/pradeep-a-v-511821154)
 - [Praneesh P V - SAP BW Hana Consultant](https://www.linkedin.com/in/pvpraneesh)
