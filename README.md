@@ -12,8 +12,10 @@ coddkorg [AT] gmail.com
 - Anesh Das - Management Professional
 - [Anupama R Pai, PhD - Neuroscientist](https://www.linkedin.com/in/anupama-r-pai-026a57a5/)
 - [Arul Treesa Mathew - Cybersecurity Enthusiast](https://in.linkedin.com/in/arul-treesa-mathew-14631190)
+- Aster E A - Data Science Student
 - [Baiju Joy - Library & Information Professional](https://in.linkedin.com/in/baiju-joy-a498b365)
 - [Droupathy Devi C G, Library & Information Professional](www.stjosephlibraryblog.wordpress.com)
+- Gayathri B R - Data Science Student
 - Gilu G.Ettaniyil - Library and Information science professional
 - [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne-b95470189)
 - [Jasimudeen S - Executive Editor, Health Infonet Portal](https://healthinfonet.in/)
@@ -23,8 +25,10 @@ coddkorg [AT] gmail.com
 - [Jino Johnson - Mechanical Engineer, Social volunteer](https://facebook.com/jino.johnson.58)
 - [Jishnu G - Library and Information Science Student](https://www.facebook.com/jishnu.g.nair.75)
 - [Jomon Thomas Lobo - Software Engineer](http://jomonlobo.online)
+- Joseph Baiju - Data Science Student
 - [Karthik Hariharan - UI & Backend Software Developer/Lead](https://in.linkedin.com/in/karthik-hariharan-6b7b78a7)
 - [Lijin Samuel - Sr. Accountant at Team Furniture Industry](https://www.linkedin.com/in/lijin-samuel-9016bb119)
+- Manju P.U, PhD - Library and Information Science Professional
 - [Manoj Karingamadathil - OpenStreetMap Kerala](https://www.facebook.com/manoj.k.mohan)
 - [Mohammed Musfir N N - Data Story Teller, Data Scientist](https://www.linkedin.com/in/musfir-mohammed-684a013b)
 - [Neetha Nanoth Vellichirammal, PhD - Molecular Biologist, Bioinformatician](https://www.linkedin.com/in/neethananoth)
@@ -52,8 +56,10 @@ coddkorg [AT] gmail.com
 - [Sreehari V - SAP Consultant](https://www.linkedin.com/in/sreehari-pillai-b17336b0/)
 - [Sreekanth C - Cognitive Scientist, Researcher](https://www.linkedin.com/in/sreekanth-c-5b0488142)
 - Sreeragi R G - Library & Information Professional
+- Sruthi P S - Data Science Student
 - Sujith Kumar - Science & Technology Communicator
 - [Sunil Thomas Thonikkuzhiyil, PhD - Machine Learning Researcher](https://www.linkedin.com/in/sunil-thomas-thonikuzhiyil-88597415a)
+- [Sumesh V L - PCB Design Engineer](https://www.linkedin.com/in/sumesh-v-l-758979a0/)
 - [Unnikrishnan Sureshkumar - Astrophysicist, Data Enthusiast](https://www.linkedin.com/in/unnikrishnan-sureshkumar-4b519015/)
 - [Waltaire Joseph - Finance Professional](http://linkedin.com/in/waltairejoseph)
 
