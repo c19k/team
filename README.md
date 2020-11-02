@@ -19,6 +19,7 @@ coddkorg [AT] gmail.com
 - Gilu G.Ettaniyil - Library and Information science professional
 - [Hritwik N E - Writer and Coder](https://www.linkedin.com/in/hritwik-ne-b95470189)
 - [Jasimudeen S - Executive Editor, Health Infonet Portal](https://healthinfonet.in/)
+- Jayalakshmi G Nair - Mathematics Student
 - [Jeevan U - Geophysicist, GIS Analyst, Life Skill Coach ](https://www.linkedin.com/in/jeevanthetrainer/)
 - [Jijo P Ulahannan, PhD - Computational Physicist, TED Fellow](https://www.linkedin.com/in/jijopu)
 - [Jiju Kurian - Anti Malware Research Analyst](https://www.linkedin.com/in/jiju-kurian-590ab211)
@@ -47,6 +48,7 @@ coddkorg [AT] gmail.com
 - [Saneesh Chengamanad - Entrepreneur, Social Volunteer](https://www.linkedin.com/in/saneesh-chengamanad-142495137)
 - [Shabeesh Balan, PhD - Geneticist and Molecular Biologist](https://www.linkedin.com/in/shabeesh-balan-03251923)
 - [Sharadh M - Data Storyteller](https://twitter.com/dumb_doh?s=08)
+- Sharmy Ann James - Statistician
 - [Shibin S B - Library & Information Professional](https://iitpkd.ac.in/people/shibinsb)
 - [Shiby Joseph - Student, Social Volunteer](https://www.linkedin.com/in/shiby-joseph-961803183)
 - [Sindhu Joseph, PhD -Social Science and Public Health Researcher](https://www.linkedin.com/in/sjsindhu/)
